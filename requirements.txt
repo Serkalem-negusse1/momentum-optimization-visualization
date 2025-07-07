@@ -1,0 +1,9 @@
+# Core requirements
+numpy==1.23.5          # Numerical computing
+matplotlib==3.7.1      # Visualization
+
+# Optional development requirements - for further development if needed
+pytest==7.4.0          # Testing framework
+black==23.7.0          # Code formatting
+flake8==6.0.0          # Linting
+jupyter==1.0.0         # For notebook experimentation
