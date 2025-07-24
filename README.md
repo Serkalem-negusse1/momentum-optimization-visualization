@@ -10,7 +10,7 @@ The visualization shows:
 1. Optimization paths on a quadratic objective with different curvatures
 2. Convergence rates of different optimization methods
 
-![Momentum Comparison](./1 1.png)
+![Momentum Comparison](./1%201.png)
 
 ## Key Findings Illustrated
 
